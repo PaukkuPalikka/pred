@@ -1,0 +1,6 @@
+[package]
+name = "pred"
+version = "0.1.0"
+authors = ["pauk <pauk>"]
+
+[dependencies]
